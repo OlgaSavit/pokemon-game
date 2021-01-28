@@ -16,4 +16,5 @@ const Layout=({id, title, descr,urlBg, colorBg})=>{
         </section>
     )
 }
+
 export default Layout;

@@ -9,7 +9,10 @@
     z-index: 5;
     background-attachment: fixed;
 }
-
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
 .root .wrapper {
     padding: 15rem 10rem 12rem;
     height: 100%;

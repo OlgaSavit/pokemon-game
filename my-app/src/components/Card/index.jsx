@@ -36,6 +36,5 @@ const Card=({name, id, values, type, img})=>{
                 </div>
             </div>
        </div>)
-
 }
 export default Card;
